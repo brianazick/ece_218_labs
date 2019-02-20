@@ -191,7 +191,7 @@
       </C30-LD>
       <C30Global>
         <property key="common-include-directories"
-                  value="..\..\..\pic24_code_examples\lib"/>
+                  value="..\..\..\pic24_code_examples\lib\include"/>
         <property key="dual-boot-partition" value="0"/>
         <property key="fast-math" value="false"/>
         <property key="generic-16-bit" value="false"/>
