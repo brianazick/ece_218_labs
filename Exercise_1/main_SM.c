@@ -11,7 +11,7 @@
 #include "pic24_all.h"
 
 // #defines for handy constants
-#define LED1 (_LATA1)  // Red LED on the Microstick II board.
+#define LED1 (_LATA1)  // Red LED
 #define Button (_RB2) // Active low button attached to RB2 (pin 6)
 
 /*********** GLOBAL VARIABLE AND FUNCTION DEFINITIONS *******/
